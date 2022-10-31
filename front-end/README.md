@@ -1,5 +1,5 @@
 # Front end
-- To-do list:
+## To-do list:
 1. Create image components
 2. Use JS to loop through all images in database and render components for each of them
 3. Display components in a manner that is logical
